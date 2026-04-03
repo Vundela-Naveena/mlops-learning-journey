@@ -1,0 +1,3 @@
+This is Day 3 file handling practice.
+Learning Python is fun!
+This line is appended.
